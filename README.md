@@ -23,7 +23,8 @@ Senior Technical Writer with over 15 years of experience in scalable, user-focus
 - **Methodologies:** Agile, Scrum, Kanban
 
 ## Professional Experience
-### Senior Technical Writer - WTS Paradigm, LLC (Jun 2022 – Present)
+### Senior Technical Writer - WTS Paradigm, LLC 
+(Jun 2022 – Present)
 - Promoted from Technical Writer in 2023
 - Improved documentation by 475%
 - Launched knowledge base for new application suite
