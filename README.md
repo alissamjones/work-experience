@@ -1,5 +1,3 @@
-# reesume
-
 # Alissa M. Jones - Senior Technical Writer
 
 ## Professional Summary
