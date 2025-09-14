@@ -34,25 +34,30 @@ Senior Technical Writer with over 15 years of experience in scalable, user-focus
 - Mentored junior writers and trainers
 - Recognized with Paradigm Pioneer Award
 
-### Prompt Engineer and AI Trainer - Remotasks, LLC (Jun 2022 – Jan 2024)
+### Prompt Engineer and AI Trainer - Remotasks, LLC 
+(Jun 2022 – Jan 2024)
 - Hands-on experience with LLMs and AI tools
 - Authored and tested 500+ prompts
 - Improved model output quality by 20%
 - Streamlined documentation workflows
 
-### Technical Writer - Frontier Science Technology & Research Foundation (Nov 2017 – Apr 2022)
+### Technical Writer - Frontier Science Technology & Research Foundation 
+(Nov 2017 – Apr 2022)
 - Managed documentation for global Phase III clinical trial
 - Produced 200+ regulatory documents
 - Led accessibility and WCAG compliance initiatives
 - Delivered protocol updates to 800+ institutions
 - Supported audits and operations
-### Marketing Manager - Barron Games International (Jun 2015 – May 2017)
+  
+### Marketing Manager - Barron Games International 
+(Jun 2015 – May 2017)
 - Created product literature for 150+ arcade games
 - Designed multimedia marketing campaigns
 - Managed website and helpdesk
 - Led trade show logistics
 
-### Regional Marketing Manager - Sky Zone Indoor Trampoline Park (Jul 2012 – Jun 2015)
+### Regional Marketing Manager - Sky Zone Indoor Trampoline Park 
+(Jul 2012 – Jun 2015)
 - Promoted through four roles
 - Led operations and marketing across multiple locations
 - Directed regional marketing strategy
